@@ -1,6 +1,6 @@
 function Contact() {
     return (
-        <h1>Hello, rom Contact page.</h1>
+        <h1>Hello, from Contact page.</h1>
     )
 }
 
